@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         LinearLayout ll=new LinearLayout(this);
         ll.setOrientation(LinearLayout.VERTICAL);
         TextView txt=new TextView(this);
-        txt.setText("그렁가부다");
+        txt.setText("그렁가부다222222");
         ll.addView(txt);
 
 
