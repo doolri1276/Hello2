@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         Button btn=new Button(this);
-        btn.setText("버튼");
+        btn.setText("버튼1111111");
         ll.addView(btn);
 
         setContentView(ll);
